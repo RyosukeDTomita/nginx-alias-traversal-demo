@@ -1,6 +1,6 @@
 # Nginx alias traversal demo
 
-![un license](https://img.shields.io/github/license/RyosukeDTomita/nginx-alias-traversal-demo>)
+![un license](https://img.shields.io/github/license/RyosukeDTomita/nginx-alias-traversal-demo)
 
 ## INDEX
 
